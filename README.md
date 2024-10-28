@@ -79,19 +79,19 @@ Install Windows 10 Machine:  <br/>
  <br />
 <br />
  Add computer to domain:  <br/>
-<img src="https://i.imgur.com/BQnLWay.png" height="80%" width="80%" />
+<img src="https://i.imgur.com/1ndZXbc.png" height="80%" width="80%" />
  <br />
 <br />
  Computer added to domain:  <br/>
-<img src="https://i.imgur.com/BQnLWay.png" height="80%" width="80%" />
+<img src="https://i.imgur.com/oxqwL2b.png" height="80%" width="80%" />
  <br />
 <br />
  Confirm the computer added to domain on server:  <br/>
-<img src="https://i.imgur.com/BQnLWay.png" height="80%" width="80%" />
+<img src="https://i.imgur.com/x7IzeJp.png" height="80%" width="80%" />
  <br />
 <br />
  2nd computer added to domain:  <br/>
-<img src="https://i.imgur.com/BQnLWay.png" height="80%" width="80%" />
+<img src="https://i.imgur.com/C27Cw14.png" height="80%" width="80%" />
  <br />
 <br />
 </p>
